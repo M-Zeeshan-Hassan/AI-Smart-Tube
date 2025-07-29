@@ -31,7 +31,7 @@ const Signup = () => {
               </div>
               <div>
                 <span className="text-xl font-bold bg-gradient-to-r from-white via-white/90 to-white/80 bg-clip-text text-transparent">
-                  Smart AI Tube
+                  AI Smart Tube
                 </span>
                 <div className="text-xs text-white/60"></div>
               </div>
@@ -122,7 +122,7 @@ const Signup = () => {
         {/* Footer */}
         <footer className="p-6 border-t border-white/[0.08]">
           <div className="max-w-7xl mx-auto flex items-center justify-between text-sm text-white/60">
-            <div>© 2025 Smart AI Tube. All rights reserved.</div>
+            <div>© 2025 AI Smart Tube. All rights reserved.</div>
             <div className="flex items-center gap-6">
               <Link to="#" className="hover:text-white/80 transition-colors">
                 Privacy Policy

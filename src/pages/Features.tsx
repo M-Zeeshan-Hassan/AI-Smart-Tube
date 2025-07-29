@@ -157,7 +157,7 @@ const Features = () => {
       icon: <Zap className="h-6 w-6" />,
       title: "API Access",
       description:
-        "Integrate Smart AI Tube data with your existing tools and workflows.",
+        "Integrate AI Smart Tube data with your existing tools and workflows.",
     },
   ];
 
@@ -176,7 +176,7 @@ const Features = () => {
               </div>
               <div>
                 <span className="text-xl font-bold bg-gradient-to-r from-white via-white/90 to-white/80 bg-clip-text text-transparent">
-                  Smart AI Tube
+                  AI Smart Tube
                 </span>
                 <div className="text-xs text-white/60"></div>
               </div>
@@ -401,7 +401,7 @@ const Features = () => {
         <footer className="border-t border-white/[0.08] py-12">
           <div className="container mx-auto px-6 flex items-center justify-between">
             <div className="text-white/60 text-sm">
-              © 2025 Smart AI Tube. All rights reserved.
+              © 2025 AI Smart Tube. All rights reserved.
             </div>
             <div className="flex items-center gap-6 text-sm text-white/60">
               <Link

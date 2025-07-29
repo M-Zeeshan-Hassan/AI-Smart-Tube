@@ -1,5 +1,6 @@
 <<<<<<< HEAD
-# Smart AI Tube - YouTube Analytics Dashboard (Frontend Only)
+
+# AI Smart Tube - YouTube Analytics Dashboard (Frontend Only)
 
 A modern, responsive frontend interface for a YouTube analytics platform, built with **React** and **TypeScript**. It features real-time data visualization, beautiful UI/UX, and AI-powered insights to help creators monitor performance metrics.
 
@@ -7,27 +8,27 @@ A modern, responsive frontend interface for a YouTube analytics platform, built 
 
 ## 🚀 Key Features
 
-* **React + TypeScript** – Robust and type-safe development
-* **Glassmorphism UI** – Clean and modern interface with smooth animations
-* **Responsive Design** – Optimized for desktop and mobile
-* **Charts and Visualizations** – Interactive graphs using Recharts
-* **Authentication UI** – Forms for login and signup
-* **Global State Management** – Zustand for managing app-wide state
-* **API Integration** – Connects with external backend APIs
+- **React + TypeScript** – Robust and type-safe development
+- **Glassmorphism UI** – Clean and modern interface with smooth animations
+- **Responsive Design** – Optimized for desktop and mobile
+- **Charts and Visualizations** – Interactive graphs using Recharts
+- **Authentication UI** – Forms for login and signup
+- **Global State Management** – Zustand for managing app-wide state
+- **API Integration** – Connects with external backend APIs
 
 ---
 
 ## 🛠 Tech Stack
 
-* **React 18**
-* **TypeScript**
-* **Vite** (Build tool)
-* **Tailwind CSS** + **shadcn/ui** (Styling and UI components)
-* **React Router** (Routing)
-* **React Query** (Data fetching and caching)
-* **Framer Motion** (Animations)
-* **Recharts** (Data visualizations)
-* **Zustand** (State management)
+- **React 18**
+- **TypeScript**
+- **Vite** (Build tool)
+- **Tailwind CSS** + **shadcn/ui** (Styling and UI components)
+- **React Router** (Routing)
+- **React Query** (Data fetching and caching)
+- **Framer Motion** (Animations)
+- **Recharts** (Data visualizations)
+- **Zustand** (State management)
 
 ---
 
@@ -49,8 +50,8 @@ src/
 
 ### Prerequisites
 
-* Node.js v16 or later
-* npm or yarn
+- Node.js v16 or later
+- npm or yarn
 
 ### Installation
 
@@ -71,21 +72,21 @@ http://localhost:8080
 
 ## ✨ Dashboard Features
 
-* 📊 Real-time performance insights
-* 📈 Video comparisons and growth tracking
-* 🎯 Engagement metrics and audience retention
-* 📑 Report generation and data export
-* 🌙 Light and dark theme support
-* 🔔 Real-time notifications and preferences
+- 📊 Real-time performance insights
+- 📈 Video comparisons and growth tracking
+- 🎯 Engagement metrics and audience retention
+- 📑 Report generation and data export
+- 🌙 Light and dark theme support
+- 🔔 Real-time notifications and preferences
 
 ---
 
 ## 🎨 UI/UX Highlights
 
-* Elegant glassmorphism effects
-* Smooth transitions with Framer Motion
-* Intuitive navigation and layout
-* Mobile-first design
+- Elegant glassmorphism effects
+- Smooth transitions with Framer Motion
+- Intuitive navigation and layout
+- Mobile-first design
 
 ---
 
@@ -98,5 +99,7 @@ http://localhost:8080
 5. Submit a pull request
 
 =======
+
 # Smart-AI-Tube
->>>>>>> 44355f0aa888dcda893d39840d4d72ecda788b97
+
+> > > > > > > 44355f0aa888dcda893d39840d4d72ecda788b97

@@ -89,7 +89,7 @@ export default function SignupForm() {
         >
           <div className="mb-6 text-center">
             <h2 className="text-2xl font-bold bg-gradient-to-r from-white via-white/90 to-white/80 bg-clip-text text-transparent mb-2">
-              Join Smart AI Tube
+              Join AI Smart Tube
             </h2>
             <p className="text-white/60 text-sm">
               Start optimizing your YouTube channel today

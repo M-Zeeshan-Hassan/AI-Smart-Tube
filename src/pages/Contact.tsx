@@ -60,7 +60,7 @@ const Contact = () => {
       icon: <Mail className="h-6 w-6" />,
       title: "Email Support",
       description: "Get help via email",
-      detail: "support@Smart AI Tube.com",
+      detail: "support@AI Smart Tube.com",
       responseTime: "24 hours",
       gradient: "from-blue-500/20 to-cyan-500/20",
     },
@@ -98,7 +98,7 @@ const Contact = () => {
     {
       icon: <Zap className="h-6 w-6" />,
       title: "Feature Requests",
-      description: "Suggest new features or improvements to Smart AI Tube",
+      description: "Suggest new features or improvements to AI Smart Tube",
       category: "feature",
     },
     {
@@ -147,7 +147,7 @@ const Contact = () => {
               </div>
               <div>
                 <span className="text-xl font-bold bg-gradient-to-r from-white via-white/90 to-white/80 bg-clip-text text-transparent">
-                  Smart AI Tube
+                  AI Smart Tube
                 </span>
                 <div className="text-xs text-white/60"></div>
               </div>
@@ -194,7 +194,7 @@ const Contact = () => {
             </h1>
 
             <p className="text-xl text-white/70 mb-10 leading-relaxed">
-              Have questions about Smart AI Tube? Need help getting started? Our
+              Have questions about AI Smart Tube? Need help getting started? Our
               team is here to support you every step of the way.
             </p>
 
@@ -495,7 +495,7 @@ const Contact = () => {
         <footer className="border-t border-white/[0.08] py-12">
           <div className="container mx-auto px-6 flex items-center justify-between">
             <div className="text-white/60 text-sm">
-              © 2025 Smart AI Tube. All rights reserved.
+              © 2025 AI Smart Tube. All rights reserved.
             </div>
             <div className="flex items-center gap-6 text-sm text-white/60">
               <Link

@@ -58,7 +58,7 @@ const About = () => {
     {
       name: "Sarah Johnson",
       role: "CEO & Co-Founder",
-      bio: "Former YouTube creator with 2M+ subscribers. Built Smart AI Tube after experiencing the analytics pain points firsthand.",
+      bio: "Former YouTube creator with 2M+ subscribers. Built AI Smart Tube after experiencing the analytics pain points firsthand.",
       initials: "SJ",
       gradient: "from-blue-500 to-cyan-500",
     },
@@ -146,7 +146,7 @@ const About = () => {
               </div>
               <div>
                 <span className="text-xl font-bold bg-gradient-to-r from-white via-white/90 to-white/80 bg-clip-text text-transparent">
-                  Smart AI Tube
+                  AI Smart Tube
                 </span>
                 <div className="text-xs text-white/60"></div>
               </div>
@@ -254,7 +254,7 @@ const About = () => {
               </h2>
               <div className="space-y-6 text-white/70 leading-relaxed">
                 <p>
-                  Smart AI Tube was born from frustration. As YouTube creators
+                  AI Smart Tube was born from frustration. As YouTube creators
                   ourselves, we struggled with the platform's limited analytics.
                   We couldn't get the insights we needed to understand what
                   content worked, when to post, or how to optimize our strategy.
@@ -265,7 +265,7 @@ const About = () => {
                   build the analytics platform we wished existed.
                 </p>
                 <p>
-                  Today, Smart AI Tube serves over 10,000 creators worldwide,
+                  Today, AI Smart Tube serves over 10,000 creators worldwide,
                   helping them make data-driven decisions and grow their
                   channels faster than ever before. We're just getting started.
                 </p>
@@ -364,7 +364,7 @@ const About = () => {
               Meet Our Team
             </h2>
             <p className="text-xl text-white/60 max-w-3xl mx-auto">
-              The passionate individuals behind Smart AI Tube, dedicated to
+              The passionate individuals behind AI Smart Tube, dedicated to
               helping creators succeed
             </p>
           </motion.div>
@@ -458,7 +458,7 @@ const About = () => {
                   Ready to Join Our Community?
                 </h2>
                 <p className="text-xl text-white/80 mb-8">
-                  Become part of the 10,000+ creators who trust Smart AI Tube to
+                  Become part of the 10,000+ creators who trust AI Smart Tube to
                   help them grow their YouTube channels.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -488,7 +488,7 @@ const About = () => {
         <footer className="border-t border-white/[0.08] py-12">
           <div className="container mx-auto px-6 flex items-center justify-between">
             <div className="text-white/60 text-sm">
-              © 2025 Smart AI Tube. All rights reserved.
+              © 2025 AI Smart Tube. All rights reserved.
             </div>
             <div className="flex items-center gap-6 text-sm text-white/60">
               <Link

@@ -174,7 +174,7 @@ const Landing = () => {
                   </div>
                   <div>
                     <span className="text-xl font-bold bg-gradient-to-r from-white via-white/90 to-white/80 bg-clip-text text-transparent">
-                      Smart AI Tube
+                      AI Smart Tube
                     </span>
                     <div className="text-xs text-white/60"></div>
                   </div>
@@ -638,7 +638,7 @@ const Landing = () => {
                     <PlayCircle className="h-5 w-5 text-white" />
                   </div>
                   <span className="text-xl font-bold text-white">
-                    Smart AI Tube
+                    AI Smart Tube
                   </span>
                 </div>
                 <p className="text-white/60 max-w-md">
@@ -713,7 +713,7 @@ const Landing = () => {
 
             <div className="border-t border-white/[0.08] pt-8 flex flex-col md:flex-row justify-between items-center">
               <div className="text-white/60 text-sm mb-4 md:mb-0">
-                © 2025 Smart AI Tube. Built for YouTube creators worldwide.
+                © 2025 AI Smart Tube. Built for YouTube creators worldwide.
               </div>
               <div className="flex items-center gap-6 text-sm text-white/60">
                 <a href="#" className="hover:text-white/80 transition-colors">

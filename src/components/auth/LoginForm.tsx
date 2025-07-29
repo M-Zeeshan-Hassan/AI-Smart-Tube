@@ -75,7 +75,7 @@ export default function LoginForm() {
               Welcome Back
             </h2>
             <p className="text-white/60 text-sm">
-              Sign in to your Smart AI Tube account
+              Sign in to your AI Smart Tube account
             </p>
           </div>
 

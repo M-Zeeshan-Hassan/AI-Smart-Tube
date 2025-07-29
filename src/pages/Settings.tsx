@@ -190,7 +190,7 @@ const Settings = () => {
                         <div>
                           <Label className="text-white/70">Email</Label>
                           <Input
-                            defaultValue="john@Smart AI Tube.com"
+                            defaultValue="john@AI Smart Tube.com"
                             className="bg-white/[0.05] border-white/[0.15] text-white"
                           />
                         </div>
