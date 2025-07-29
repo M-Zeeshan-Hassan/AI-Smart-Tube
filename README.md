@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # AI Smart Tube - YouTube Analytics Dashboard (Frontend Only)
 
 A modern, responsive frontend interface for a YouTube analytics platform, built with **React** and **TypeScript**. It features real-time data visualization, beautiful UI/UX, and AI-powered insights to help creators monitor performance metrics.
