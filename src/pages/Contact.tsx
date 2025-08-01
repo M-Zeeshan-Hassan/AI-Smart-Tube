@@ -60,7 +60,7 @@ const Contact = () => {
       icon: <Mail className="h-6 w-6" />,
       title: "Email Support",
       description: "Get help via email",
-      detail: "support@AI Smart Tube.com",
+      detail: "mzhassa980@gmailcom",
       responseTime: "24 hours",
       gradient: "from-blue-500/20 to-cyan-500/20",
     },
