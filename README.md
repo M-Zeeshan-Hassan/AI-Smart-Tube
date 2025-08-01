@@ -96,8 +96,3 @@ http://localhost:8080
 4. Push to the branch
 5. Submit a pull request
 
-=======
-
-# Smart-AI-Tube
-
-> > > > > > > 44355f0aa888dcda893d39840d4d72ecda788b97
